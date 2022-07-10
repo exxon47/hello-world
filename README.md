@@ -1,5 +1,4 @@
 # hello-world
-This is a hello# hello-world
 This is a hello-world Repository.
 
 
