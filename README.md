@@ -62,4 +62,4 @@ I need to highlight these ==very important words== .
 
 H<sub>2</sub>O
 
-X^2^world Repository.
+X<sup>2</sup>world Repository.
